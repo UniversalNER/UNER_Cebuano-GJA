@@ -2,7 +2,7 @@
 
 The UNER dataset for the Cebuano GJA treebank, originally released with UNER v1. UNER_Cebuano-GJA is part of [Universal NER](https://www.universalner.org/) and is based on the [UD_Cebuano-GJA](https://github.com/UniversalDependencies/UD_Cebuano-GJA) dataset.
 
-The cannonical reference commit to the Universal Dependencies dataset is [`5ef101f7e2d4e07c12e29d826a7d1c4a4d7c5e79`](https://github.com/UniversalDependencies/UD_Cebuano-GJA/tree/5ef101f7e2d4e07c12e29d826a7d1c4a4d7c5e79)
+The canonical reference commit to the Universal Dependencies dataset is [`5ef101f7e2d4e07c12e29d826a7d1c4a4d7c5e79`](https://github.com/UniversalDependencies/UD_Cebuano-GJA/tree/5ef101f7e2d4e07c12e29d826a7d1c4a4d7c5e79)
 
 If you use this dataset, please cite the corresponding [paper](https://aclanthology.org/2024.naacl-long.243/):
 ```
